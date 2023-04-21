@@ -12,3 +12,11 @@ gcc main.c -o main
 ```bash
 ./main
 ```
+
+## Example
+![example](./assets/example.png)
+
+> This is an example only, the method is not ready, and the project is in development.
+
+## Contributing
+You can contribute to this project by opening an issue or a pull request freely.
